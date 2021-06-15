@@ -12,8 +12,14 @@
 
 とりあえずhttps://arxiv.org/abs/2102.00291v1 これ試したい  
 BERT を Fine-tuning するだけ
+https://arxiv.org/abs/2010.14151
+LINEが出したGANベースのもの
 
 # 気になるところ
 
 Watson Speech to Text が使用している日本語話し言葉コーパスを使ってみたい(商用利用だと 2 年更新 50 万、無期限 500 万かかる)  
 https://www.ibm.com/jp-ja/cloud/watson-speech-to-text
+
+# データセット調査
+
+https://qiita.com/yarimoto/items/98711f23f90ea068730b これとかいい
